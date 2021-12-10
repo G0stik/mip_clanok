@@ -3,4 +3,4 @@
 Zaujímavo spracované, veľmi dobrý výber témy.
 
 
-Na projekte sa mi páčilo, že boli ukázané aj útržky zdrojového kódu.
+Na projekte sa mi páčilo, že bolo vysvetlené ako veci fungujú a že je možné využiť VR vo viacerých sférach
